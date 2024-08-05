@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Lidiane Pereira 👋
 
 <!--
 **lidianetpereira/lidianetpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🎓 I have a bachelor's and master's degree in computer science by Federal University of Juiz de Fora.
+- 👩‍💻 I'm currently working as a full stack web developer.
+  - At this moment, working with Vue.js (Typescript), Spring Boot (Java) and PostgreSQL.
+- 👩‍🔬 My research area in graduate and postgraduate was mainly augmented reality, virtual reality, computer graphics and informatics for education. Some of my published papers are available [on ResearchGate](https://www.researchgate.net/profile/Lidiane-Pereira-3).
+- 📚 I'm interested in web systems, software development and software architecture.
